@@ -1,4 +1,4 @@
-/* eslint-disable import/no-dynamic-require, no-await-in-loop, no-restricted-syntax, guard-for-in */
+/* eslint-disable import/no-dynamic-require, no-await-in-loop, no-restricted-syntax, guard-for-in, import/no-unresolved */
 require('dotenv').config();
 const hre = require('hardhat');
 const { expect } = require('chai');
